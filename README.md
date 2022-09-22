@@ -1,6 +1,4 @@
-# This project is used to complete ACSE group project 2, 2022
-
-# The Gormanium Rush
+# Optimising mineral recovery using genetic algorithm
 
 ## 1. Engineering structure
 
